@@ -198,7 +198,7 @@ Keys and salts live in a secrets vault, every transaction has an audit trail, an
 
 **AI / ML**
 ![LLM Agents](https://img.shields.io/badge/LLM%20Agents-a78bfa?style=for-the-badge&logo=openaigym&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-0a0e1a?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-0a0e1a?style=for-the-badge&logo=probot&logoColor=white)
 ![Kite Connect](https://img.shields.io/badge/Kite%20Connect-387ED1?style=for-the-badge&logo=zerodha&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -216,9 +216,10 @@ Keys and salts live in a secrets vault, every transaction has an audit trail, an
 
 ![Contribution rate](https://img.shields.io/badge/Contribution%20rate-98%25-26a641?style=for-the-badge&logo=github&logoColor=white)
 ![Weeks active](https://img.shields.io/badge/Weeks%20active-51%2F52-38bdf8?style=for-the-badge&logo=githubactions&logoColor=white)
+![Organization](https://img.shields.io/badge/Organization-RhoFi-10b981?style=for-the-badge&logo=github&logoColor=white)
 ![Private repos](https://img.shields.io/badge/Work-Private%20RhoFi%20repos-6d4aff?style=for-the-badge&logo=lock&logoColor=white)
 
-<sub>Most of my work happens in private RhoFi repositories, so it isn't shown on the public contribution graph.</sub>
+<sub>Most of my work is in private repositories of the RhoFi organization. My contribution graph counts that work without showing any code, repository names or details. Only my public repositories are visible here.</sub>
 
 </div>
 
